@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="cloudsys"
+  id="myeclipse.1417444444371"
+  context-root="/cloudsys"
+  j2ee-spec="6.0"
+  archive="cloudsys.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
